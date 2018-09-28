@@ -1,5 +1,6 @@
 Simple music composer
 Edit:
+
     a) Without GUI:
         -- all tracks should be described as Haskell variables
         -- each track consists of notes superposition (parallel (=:=) or sequential (+:+) playback)
